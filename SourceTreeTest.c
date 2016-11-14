@@ -2,11 +2,11 @@
 
 int main()
 {
-<<<<<<< HEAD
+
   printf("First OSS Code");
   printf("Second OSS Code");
   printf("마스터 브랜치에 코드를 추가하였음");
-=======
+
   int i=0;
   printf("First OSS Code");
   printf("Second OSS Code");
@@ -15,6 +15,6 @@ int main()
   {
     printf("Test 브랜치\n");
   }
->>>>>>> Test
+  printf();
   return 0;
 }
